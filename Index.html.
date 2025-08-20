@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>iFrozen Food Indonesia - Link Portal</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: #f8f9fa;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 500px;
+      margin: 30px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    }
+    img {
+      width: 120px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    h1 {
+      color: #333;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #666;
+      margin-bottom: 20px;
+    }
+    a {
+      display: block;
+      background: #007bff;
+      color: white;
+      text-decoration: none;
+      padding: 12px;
+      margin: 10px 0;
+      border-radius: 8px;
+      transition: 0.3s;
+      font-weight: bold;
+    }
+    a:hover {
+      background: #0056b3;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 13px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://i.imgur.com/tF4Qy0p.png" alt="Logo iFrozen">
+    <h1>iFrozen Food Indonesia</h1>
+    <p>Portal Resmi Akun Sosial Media & Kontak Kami</p>
+    
+    <a href="https://www.facebook.com/share/12JqW6fXxsB/" target="_blank">🌐 Facebook</a>
+    <a href="https://www.tiktok.com/@franchise.frozenfood?_t=ZS-8y5lmdWazRK&_r=1" target="_blank">🎵 TikTok</a>
+    <a href="https://www.instagram.com/officialifrozennusantara?igsh=ZnFwdmJsNmRlbGlo" target="_blank">📸 Instagram</a>
+    <a href="https://wa.me/6282123197849" target="_blank">💬 WhatsApp</a>
+    <a href="https://whatsapp.com/channel/0029Vb7HTyFADTOApkOu0q0e" target="_blank">📢 Saluran WhatsApp</a>
+    
+    <div class="footer">© 2025 iFrozen Food Indonesia</div>
+  </div>
+</body>
+</html>
